@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/nystephens/food-festival#readme",
   "devDependencies": {
+    "file-loader": "^6.2.0",
+    "image-webpack-loader": "^7.0.1",
     "webpack": "^5.34.0",
     "webpack-bundle-analyzer": "^4.4.1",
     "webpack-cli": "^4.6.0"
